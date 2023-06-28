@@ -3,7 +3,7 @@
 // 5 -> 2, 4
 // 8 -> 2, 4, 6, 8
 
-Console.Write("Введите число: ");
+Console.Write("Введите целое, положительное число: ");
 
 int digitN = Convert.ToInt32(Console.ReadLine()); 
 
